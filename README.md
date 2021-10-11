@@ -2,6 +2,8 @@ Hi there 👋
 <br>
 🔭 I’m currently working on my skills 
 <br>
+🌱 I’m currently learning software skills
+<br>
 I am mainly Interested in Web Development (HTML, CSS, JS).
 <br>
 I am also regulary practicing DSA.
