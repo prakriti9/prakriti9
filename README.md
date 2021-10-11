@@ -1,5 +1,6 @@
 Hi there 👋
-🔭 I’m currently working on my skills
+🔭 I’m currently working on my skills 
+<br>
 I am mainly Interested in Web Development (HTML, CSS, JS).
 Connect me through: https://www.linkedin.com/in/prakriti-agrawal-7165731aa/
 
