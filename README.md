@@ -9,7 +9,10 @@ I am mainly Interested in Web Development (HTML, CSS, JS).
 I am also regulary practicing DSA.
 <br>
 Connect me through: https://www.linkedin.com/in/prakriti-agrawal-7165731aa/
-
+<br>
+GFG: https://auth.geeksforgeeks.org/user/prakritiagrawal911/profile
+<br>
+Hackerrank: https://www.hackerrank.com/prakritiagrawal1
 
 <!--
 **prakriti9/prakriti9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
