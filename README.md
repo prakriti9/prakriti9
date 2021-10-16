@@ -1,4 +1,4 @@
-<h2> Hi there 👋 </h2>
+<h2 style="text-align: center;"> Hi there 👋 </h2>
 <br>
 🔭 I’m currently working on my skills 
 <br>
